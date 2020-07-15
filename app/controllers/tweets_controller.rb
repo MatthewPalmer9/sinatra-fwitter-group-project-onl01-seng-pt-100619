@@ -1,4 +1,6 @@
 class TweetsController < ApplicationController
-  # change
+  def index
+    # placeholdr
+  end 
 
 end
